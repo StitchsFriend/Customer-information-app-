@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SemesterProject_XuanLu1.frmCustomerInf">
+    <Position X="1" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gACQgYAAFCAEEBBWAAChCAgCAChAABggAAQAAAIHAQY=</HashCode>
+      <FileName>frmCustomerInf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemesterProject_XuanLu1.Validator">
+    <Position X="4.75" Y="7.25" Width="2.5" />
+    <AssociationLine Name="frmCustomerInf" Type="SemesterProject_XuanLu1.frmCustomerInf" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="8.35" />
+        <Point X="4.141" Y="8.35" />
+        <Point X="4.141" Y="9.031" />
+        <Point X="3.58" Y="9.031" />
+        <Point X="3.58" Y="9.312" />
+        <Point X="3.25" Y="9.312" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EAAgAAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="frmCustomerInf" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
